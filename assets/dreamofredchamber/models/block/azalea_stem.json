@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "dreamofredchamber:block/azalea_stem"
+  }
+}

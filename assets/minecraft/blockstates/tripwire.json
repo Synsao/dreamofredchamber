@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "disarmed=true,attached=false,east=false,north=false,south=false,west=false": {
+      "model": "dreamofredchamber:block/azalea_clutter"
+    },
+    "disarmed=true,attached=false,east=true,north=false,south=false,west=false": {
+      "model": "dreamofredchamber:block/azalea_sapling"
+    },
+    "disarmed=true,attached=false,east=false,north=true,south=false,west=false": {
+      "model": "dreamofredchamber:block/azalea_sprouts"
+    },
+    "disarmed=true,attached=false,east=false,north=false,south=true,west=false": {
+      "model": "dreamofredchamber:block/azalea_stem2"
+    },
+    "disarmed=true,attached=false,east=false,north=false,south=false,west=true": {
+      "model": "dreamofredchamber:block/azalea_stem"
+    },
+    "disarmed=true,attached=false,east=true,north=true,south=false,west=false": {
+      "model": "dreamofredchamber:block/cave_vine"
+    },
+    "disarmed=true,attached=false,east=true,north=false,south=true,west=false": {
+      "model": "dreamofredchamber:block/flowering_azalea_sprouts"
+    },
+    "disarmed=true,attached=false,east=true,north=false,south=false,west=true": {
+      "model": "dreamofredchamber:block/glowing_cave_vine"
+    },
+    "disarmed=true,attached=false,east=false,north=true,south=true,west=false": {
+      "model": "dreamofredchamber:block/hanging_azalea_clutter"
+    },
+    "disarmed=true,attached=false,east=false,north=true,south=false,west=true": {
+      "model": "dreamofredchamber:block/hanging_pink_tulip"
+    },
+    "disarmed=true,attached=false,east=true,north=true,south=true,west=false": {
+      "model": "dreamofredchamber:block/shrub"
+    },
+    "disarmed=true,attached=false,east=true,north=true,south=false,west=true": {
+      "model": "dreamofredchamber:block/wisteria1"
+    },
+    "disarmed=true,attached=false,east=true,north=false,south=true,west=true": {
+      "model": "dreamofredchamber:block/wisteria2"
+    }
+  }
+}

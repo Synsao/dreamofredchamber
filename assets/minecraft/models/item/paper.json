@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "dreamofredchamber:item/icon_mail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "dreamofredchamber:item/icon_particles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "dreamofredchamber:item/icon_settings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5000
+      },
+      "model": "minecraft:item/paper"
+    }
+  ]
+}
