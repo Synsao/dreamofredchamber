@@ -46,7 +46,13 @@
       "model": "dreamofredchamber:block/leaf_fan"
     },
     "powered=true,attached=false,disarmed=true,east=true,north=true,south=true,west=true": {
-      "model": "minecraft:block/tripwire"
+      "model": "dreamofredchamber:block/leaf_fan2"
+    },
+    "powered=true,attached=false,disarmed=false,east=false,north=false,south=false,west=false": {
+      "model": "dreamofredchamber:block/yellow_leaf_fan"
+    },
+    "powered=true,attached=false,disarmed=false,east=false,north=false,south=false,west=true": {
+      "model": "dreamofredchamber:block/yellow_leaf_fan2"
     }
   }
 }
