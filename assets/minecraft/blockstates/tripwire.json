@@ -40,10 +40,13 @@
       "model": "dreamofredchamber:block/wisteria2"
     },
     "powered=true,attached=false,disarmed=true,east=true,north=true,south=false,west=true": {
-      "model": "dreamofredchamber:block/wisteria3"
+      "model": "dreamofredchamber:block/azalea_fan"
     },
     "powered=true,attached=false,disarmed=true,east=true,north=true,south=true,west=false": {
-     "model": "dreamofredchamber:block/azalea_fan"
+      "model": "minecraft:block/tripwire"
+    },
+    "powered=true,attached=false,disarmed=true,east=true,north=true,south=true,west=true": {
+      "model": "minecraft:block/tripwire"
     }
   }
 }
